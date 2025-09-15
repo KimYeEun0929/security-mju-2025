@@ -84,8 +84,8 @@ def encrypt(text, key):
 - 각 글자를 다른 글자로 대치
   ![substitution cipher](./images/image-substitution_cipher.png)
 
-- 키 space는 26! (약 $4*(10^26)$)
-- 초당 $10^10$개 키, 계산해도 $10^11$년 소요
+- 키 space는 26! (약 $(4*(10^26))$)
+- 초당 $(10^10)$개 키, 계산해도 $(10^11)$년 소요
 
 ```
 alphabet = "abcdefghijklmnopqrstuvwxyz"
